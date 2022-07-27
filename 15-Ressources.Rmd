@@ -12,7 +12,7 @@ Quelques ressources de références
 
 ## ggplot2
 - La documentation du module : http://ggplot2.tidyverse.org/reference/
-- Cheatsheet : https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf
+- Cheatsheet : https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf (en) et https://raw.githubusercontent.com/rstudio/cheatsheets/main/translations/french/data-visualization_fr.pdf (fr)
 - Top 50 ggplot2 visualisations : http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
 ## tmap
